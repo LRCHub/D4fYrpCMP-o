@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Do u remember me",
+  "base_artist": "Mall Boyz",
+  "createdAt": "2025-12-03T13:52:11.543700Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Do u remember me (feat. Tohji & gummyboy)",
+      "artist": "Mall Boyz",
+      "has_synced": true,
+      "path": "select/01_Do_u_remember_me_(feat._Tohji_&_gummyboy)_Mall_Boyz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Do u remember me (feat. Tohji & gummyboy)",
+      "artist": "Mall Boyz",
+      "has_synced": false,
+      "path": "select/pl_01_Do_u_remember_me_(feat._Tohji_&_gummyboy)_Mall_Boyz.txt"
+    }
+  ]
+}
